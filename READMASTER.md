@@ -1,2 +1,0 @@
-# MyFolder
-my myster
